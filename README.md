@@ -11,7 +11,7 @@ and a trained TensorFlow/Keras model for gesture classification.
 
 
 
-## Project Enhancement using Prompt enhancement
+## Project Enhancement using Prompt Engineering
 
 GenAI was used during the development and enhancement of the project to assist with code generation, debugging, architecture design,
 feature planning, documentation, and optimization.
