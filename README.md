@@ -1,3 +1,5 @@
+# AI Powered Sign Language Translation
+
 ## Project Overview
 
 AI Powered Sign language Translation is a computer-vision based application that
